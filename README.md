@@ -13,4 +13,12 @@ A simple command-line Task Management System built with Python and SQLite
 
 
 
-## Screen Shots S
+## Screen Shots 
+
+![image](https://github.com/user-attachments/assets/3a96dd73-0e8b-495c-b2e7-e0635790f1f8)
+
+![image](https://github.com/user-attachments/assets/fca35b4d-f919-499c-bc25-08ae0d8a6919)
+
+![image](https://github.com/user-attachments/assets/d7266655-529e-4b04-abde-131ce9e16a62)
+![image](https://github.com/user-attachments/assets/e457d4dc-4e56-4971-8bf2-956d937e7d29)
+![Uploading image.png…]()
